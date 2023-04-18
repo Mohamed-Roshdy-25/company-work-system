@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135953817267",
+    "project_id": "companies-work-system",
+    "storage_bucket": "companies-work-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135953817267:android:540202ffa94fb26e6cdac6",
+        "android_client_info": {
+          "package_name": "com.example.companies_work_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135953817267-5qsigg2qpo3evvnr62gqufmdis46j4fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6R1NLNTBeBNYxF1ddRkWHbjar_vIKcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135953817267-5qsigg2qpo3evvnr62gqufmdis46j4fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
