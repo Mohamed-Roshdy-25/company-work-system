@@ -13,7 +13,7 @@ An app for manage work of an organization dealing with :
   - Add Task.
   - Get all workers.
   - Get task details.
-  - update status of the task.
+  - update state of the task.
   - (Add - Delete) comment.
 
 ## project images
