@@ -1,5 +1,7 @@
 # companies_work_system
 
+old project when i start learning firebase
+
 An app for manage work of an organization dealing with :
   - Firebase.
   - FCM notifications.
