@@ -7,12 +7,14 @@ An app for manage work of an organization dealing with :
 
 # Featuers
 
-  - Authentication (login - register - forget password - verification - reset password).
-  - get each Category products.
-  - (Add - Delete) to/from favorites.
-  - (Add - Delete) to/from cart.
-  - paymob payment (ref code - card).
-
+  - Authentication (login - register).
+  - Get all Tasks.
+  - Filter tasks.
+  - Add Task.
+  - Get all workers.
+  - Get task details.
+  - update status of the task.
+  - (Add - Delete) comment.
 
 ## project images
 
