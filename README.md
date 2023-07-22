@@ -15,6 +15,8 @@ An app for manage work of an organization dealing with :
   - Get task details.
   - update state of the task.
   - (Add - Delete) comment.
+  - Send notification to all workers when new task uploads.
+  - Send notification to task owner when new comment is added.
 
 ## project images
 
